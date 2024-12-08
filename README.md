@@ -3,7 +3,7 @@
 This is your story.
 
 ## Run in development mode
-aa
+aa hasekenji
 
 ```
 yarn dev
